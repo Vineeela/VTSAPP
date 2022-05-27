@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+
+  display: none;
+
+}
+.App {
+  background-color: aqua;
+  overflow-x: hidden;
+}
+.scroll {
+  max-height: 83vh;
+
+  overflow: scroll;
+
+  position: relative;
+}

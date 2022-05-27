@@ -1,0 +1,22 @@
+.flex{ 
+    width: 200px;
+}
+
+
+.input-group.md-form.form-sm{
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    width: 200px;
+}
+/* .drpdwn{
+    height: 900px;
+} */
+
+.tbl{
+    width: 1100px;
+}
+.srchbtn{
+    margin-left: 200px;
+  
+}
